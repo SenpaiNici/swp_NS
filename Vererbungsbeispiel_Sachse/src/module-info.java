@@ -1,0 +1,2 @@
+module Vererbungsbeispiel_Sachse {
+}
